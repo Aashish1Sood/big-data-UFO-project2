@@ -1,0 +1,101 @@
+ 
+
+' REPORT FORM
+I . . UNTDEII'I‘TFT‘ED T-‘LY'ITJG OBJECT
+
+MM‘TUAL 03‘ ATE TPJ‘LII‘PIC SERVICE Part 1
+
+. 20.12.76 Amendment 12. 7’
+. Daté, Time Duration of Sighting.
+
+C3300 .2? ‘" £73301?
+
+ 
+
+ 
+
+. Descripti on of Object
+
+C ‘21me jﬁiﬁ‘f/E.
+
+ 
+
+. Exact Position of Observer.
+
+\N‘ ES—TFOF [41 MTV Q5 1;. LLH If» E_ 55W;
+
+ 
+
+:. 'Hou Observed.
+
+ 
+
+NNLED 95 + BWOCULAFé
+
+ 
+
+.. Direction in which Object was first seen.
+
+NEW? Mum; Dova/A/ To 1.52;;- Ur rT
+
+ 
+
+3‘. Angular Ejlcantion of Object
+N Eﬁ'zx 5V\c'cm3
+
+ 
+
+J. Fistance of Object from Observer.
+
+ 
+
+ 
+
+ 
+
+I. Iictcorologictl Conditions During Observuﬁons.
+I ' .. 1 u s M .‘st . — - . .
+Lonnb C o d , 11.. e, II‘l etc CL£ﬂg V12. UNHL [3,3012 (bufup 37 CLOub
+
+ 
+
+f
+
+u Iiear'by Objc cts.
+
+MOON
+
+ 
+
+L. To "-.'.'hom Reported.
+
+_AmE '
+
+4.—
+
+ 
+
+I-I. Iame 6c Address of Informnt.
+
+N. Any Bacxground Information on the Infomn‘t that
+may 'be Volunteerecl.
+
+ 
+
+\ I . . -
+
+ 
+
+0. Other ‘.Iit11cnses.
+i , OTI—we gamma;
+
+P. Date <3; Time of iicccipt 01' Report.
+
+Mm (M: (5/9“;
+
+ 
+
+ 
+
+ 
+
