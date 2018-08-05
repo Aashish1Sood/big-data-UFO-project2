@@ -1,4 +1,4 @@
-# OCR rcognition, Image Captioning and Object Recognition UFO Sighting Data
+# OCR recognition, Image Captioning and Object Recognition UFO Sighting Data
 
 In this project we tried to extract features from PDF files(.pdf) and image files(.jpeg/jpg) 
 We chose following three datasets
